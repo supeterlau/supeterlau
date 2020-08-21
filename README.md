@@ -1,4 +1,9 @@
-![EAT, SLEEP, CODE, REPEAT](https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif)
+<!-- ![EAT, SLEEP, CODE, REPEAT](https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif) -->
+
+<figure>
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="EAT, SLEEP, CODE, REPEAT" style="width:480px;height:354px">
+  <figcaption style="text-align: center">EAT, SLEEP, CODE, REPEAT</figcaption>
+</figure>
 
 Enjoy Elixir/Erlang, Haskell, Rust, DBs, Emacs, Vim, clean systems, and prototype design. Language and technology agnostic.
 
