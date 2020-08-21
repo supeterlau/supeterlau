@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/A06UFEx8jxEwU" width="480" height="354" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU">EAT, SLEEP, CODE, REPEAT</a></p>
+<video alt="EAT, SLEEP, CODE, REPEAT" src="https://giphy.com/gifs/A06UFEx8jxEwU/html5"></video>
 
 Enjoy Elixir/Erlang, Haskell, Rust, DBs, Emacs, Vim, clean systems, and prototype design. Language and technology agnostic.
 
