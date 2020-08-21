@@ -14,7 +14,7 @@ Interested in distributed systems, compilation principles, type systems, serverl
 
 - 🤔 I’m looking for a remote back-end development work anywhere in the world.
 
-- 💬 Chat with me on discord: ![Discord](https://img.shields.io/discord/746436320494223440?style=flat-square)
+- 💬 Chat with me on discord: [CLCIK TO CHAT](https://discord.gg/6tNNu8Y) ![Discord](https://img.shields.io/discord/746436320494223440?style=flat-square)
 
 
 
