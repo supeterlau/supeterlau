@@ -1,4 +1,4 @@
-<video alt="EAT, SLEEP, CODE, REPEAT" src="https://giphy.com/gifs/A06UFEx8jxEwU/html5"></video>
+![EAT, SLEEP, CODE, REPEAT](https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif)
 
 Enjoy Elixir/Erlang, Haskell, Rust, DBs, Emacs, Vim, clean systems, and prototype design. Language and technology agnostic.
 
