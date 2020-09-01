@@ -4,13 +4,18 @@
   <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="EAT, SLEEP, CODE, REPEAT" style="width:480px;height:354px">
 </p>
 
-Enjoy Elixir/Erlang, Haskell, Rust, DBs, Emacs, Vim, clean systems, and prototype design. Language and technology agnostic.
+Enjoy __Elixir/Erlang__, __Haskell__, __Rust__, __DataBases__, __Emacs__, __Vim__, __clean systems__, and __prototype design__. Language and technology agnostic.
 
 Mainly use Elixir, Ruby, Python, Node.js as backend development languages at work.
 
-Have ReactJS/Next.js experience.
+Have ReactJS/Next.js/Frontend development experience.
 
-Interested in distributed systems, compilation principles, type systems, serverless architecture.
+Interested in 
+
+    - distributed systems, 
+    - compilation principles, 
+    - type systems, 
+    - serverless architecture.
 
 - 🤔 I’m looking for a remote back-end development work anywhere in the world.
 
