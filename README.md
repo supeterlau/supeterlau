@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="EAT, SLEEP, CODE, REPEAT" style="width:480px;height:354px">
 </p>
 
-Enjoy __Elixir/Erlang__, __Haskell__, __Rust__, __Emacs__, __Vim__, and __prototype design__. Language and technology agnostic.
+Enjoy __[Elixir/Erlang](https://github.com/e8t-arena?type=source&language=elixir)__, __Haskell__, __Rust__, __[Emacs](https://github.com/e8t-arena/emacs.pl)__, __[VIM](https://github.com/e8t-arena/vim.pl)__, __UNIX(Linux/BSD/macOS)__. Language and technology agnostic.
 
 Mainly use Elixir, Ruby, Python, Node.js as backend development languages at work.
 
@@ -24,7 +24,7 @@ Currently
 
 - 🤔 I’m looking for a remote back-end development work anywhere in the world.
 
-- 💬 Chat with me on discord: [CLCIK TO CHAT](https://discord.gg/6tNNu8Y) ![Discord](https://img.shields.io/discord/746436320494223440?style=flat-square)
+- 💬 Chat with me on discord: [CHAT](https://discord.gg/6tNNu8Y) ![Discord](https://img.shields.io/discord/746436320494223440?style=flat-square)
 
 
 
