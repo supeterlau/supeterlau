@@ -20,9 +20,7 @@ Interested in
   
   - serverless architecture.
 
-Currently
-
-- 🤔 I’m looking for a remote back-end development work anywhere in the world.
+Contact
 
 - 💬 Chat with me on discord: [CHAT](https://discord.gg/6tNNu8Y) ![Discord](https://img.shields.io/discord/746436320494223440?style=flat-square)
 
