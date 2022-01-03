@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="EAT, SLEEP, CODE, REPEAT" style="width:480px;height:354px">
 </p>
 
-Enjoy __[Elixir/Erlang](https://github.com/e8t-arena?type=source&language=elixir)__, __Haskell__, __Rust__, __[Emacs](https://github.com/e8t-arena/emacs.pl)__, __[VIM](https://github.com/e8t-arena/vim.pl)__, __UNIX(Linux/BSD/macOS)__. Language and technology agnostic.
+Enjoy __[Elixir/Erlang](https://github.com/e8t-elixir)__, __Haskell__, __Rust__, __[Emacs](https://github.com/e8t-arena/emacs.pl)__, __[VIM](https://github.com/e8t-arena/vim.pl)__, __UNIX(Linux/BSD/macOS)__. Language and technology agnostic.
 
 Mainly use Elixir, Ruby, Python, Node.js as backend development languages at work.
 
