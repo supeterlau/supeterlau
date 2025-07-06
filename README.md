@@ -11,6 +11,8 @@ Mainly use Elixir, Ruby, Python, Node.js as backend development languages at wor
 Have ReactJS/Next.js/Frontend development experience.
 
 Interested in 
+  
+  - Foundation LLMs, 
 
   - distributed systems, 
 
